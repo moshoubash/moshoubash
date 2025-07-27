@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a passionate developer focused on building clean, efficient, and user-friendly software.<br>🔭 I’m currently working on: a full-stack web app using Laravel 11 and PHP<br>🌱 I’m currently learning: Laravel, PHP.<br>👯 I’m looking to collaborate on: open-source projects, dev tools, or anything JavaScript-related<br>💬 Ask me about: C#, ASP.NET Core, Javascript, REST APIs, frontend performance optimization, SEO, Web Scrabing<br>📫 How to reach me: https://www.linkedin.com/in/mohammadshoubash/
+🧑‍💻 I'm a passionate developer focused on building clean, efficient, and user-friendly software.<br>🌱 I’m currently learning: Laravel, PHP.<br>👯 I’m looking to collaborate on: open-source projects, dev tools, or anything JavaScript, PHP, C# - related<br>💬 Ask me about: C#, ASP.NET Core, Javascript, REST APIs, frontend performance optimization, SEO, Web Scrabing<br>📫 How to reach me: https://www.linkedin.com/in/mohammadshoubash/
 
 
 ## 🌐 Socials:
