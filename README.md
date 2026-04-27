@@ -1,6 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a passionate developer focused on building clean, efficient, and user-friendly software.<br>👯 I’m looking to collaborate on: open-source projects, dev tools, or anything JavaScript, PHP, C# - related<br>💬 Ask me about: C#, ASP.NET Core, Javascript, REST APIs, frontend performance optimization, SEO, Web Scrabing<br>📫 How to reach me: https://www.linkedin.com/in/mohammadshoubash/
-
+🧑‍💻 I'm a passionate developer focused on building clean, efficient, and user-friendly software.<br>👯 I’m looking to collaborate on: open-source projects, dev tools, or anything JavaScript, PHP, C# - related<br>📫 How to reach me: https://www.linkedin.com/in/mohammadshoubash/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moshoubash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadshoubash) 
@@ -11,12 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=moshoubash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=moshoubash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moshoubash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moshoubash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=moshoubash&icon=3&color=0)](https://visitcount.itsvg.in)
